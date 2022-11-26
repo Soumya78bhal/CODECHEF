@@ -30,6 +30,5 @@ while(t--){
     }
     cout<<count<<endl;
 }
-
 return 0;
 }
